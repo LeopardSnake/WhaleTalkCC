@@ -4,7 +4,7 @@
 // Sing the result slowly to speak whale :D
 
 // 1 
-const input = 'Chickens are weird';
+const input = 'The brown fox jumped over the lazy dog';
 // 2 
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 // 3 

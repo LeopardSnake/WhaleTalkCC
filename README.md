@@ -1,4 +1,4 @@
-- - - DESCRIPTION - - -
+DESCRIPTION
 Whale Talk
 
 Take a phrase like ‘turpentine and turtles’ and translate it into its “whale talk” equivalent: ‘UUEEIEEAUUEE’.
@@ -8,7 +8,7 @@ The u‘s and e‘s are extra long, so we must double them in our program.
 Once we have converted text to the whale language, the result is sung slowly, as is a custom in the ocean.
 To accomplish this translation, we can use our knowledge of loops. Let’s get started!
 
-- - - INSTRUCTIONS - - -
+INSTRUCTIONS
 1. Create a variable named input that is equal to any phrase you’d like. This variable will contain the text you want to translate into “whale talk”.
 
 2. Whales only speak in vowels so you need an array of vowels to be extracted from the input variable. Set the array equal to a variable named vowels that will not be updated.
